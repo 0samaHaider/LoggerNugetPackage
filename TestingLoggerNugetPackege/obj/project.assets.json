@@ -2,31 +2,34 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "NuGet.CommandLine/6.0.0": {
-        "type": "package"
+      "LoggerNugetPackege.Util/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/LoggerNugetPackege.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/LoggerNugetPackege.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "NuGet.CommandLine/6.0.0": {
-      "sha512": "qnY7G/yLm6KzrelEjDIbnTghS2lMcVZhRViQRzKeGoeSyKOBYS4cDbGI71WKg9hYV7DriTE6aiW7/eYaePbY5A==",
+    "LoggerNugetPackege.Util/1.0.0": {
+      "sha512": "xNJlUAOu7pA2ynMQdThifSPyTleWGhxF+VUHqcarsYP2+su+bynxOBEokXRhrkXuxS4zP+zJxVPzMty8+U5teA==",
       "type": "package",
-      "path": "nuget.commandline/6.0.0",
-      "hasTools": true,
+      "path": "loggernugetpackege.util/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "icon.png",
-        "nuget.commandline.6.0.0.nupkg.sha512",
-        "nuget.commandline.nuspec",
-        "tools/NuGet.exe",
-        "tools/NuGet.pdb"
+        "lib/netcoreapp3.1/LoggerNugetPackege.dll",
+        "loggernugetpackege.util.1.0.0.nupkg.sha512",
+        "loggernugetpackege.util.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "NuGet.CommandLine >= 6.0.0"
+      "LoggerNugetPackege.Util >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -35,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj",
-      "projectName": "LoggerNugetPackege.Util",
-      "projectPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj",
+      "projectUniqueName": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj",
+      "projectName": "TestingLoggerNugetPackege",
+      "projectPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj",
       "packagesPath": "C:\\Users\\osama.haider\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\obj\\",
+      "outputPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama.haider\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,11 +71,9 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "NuGet.CommandLine": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+          "LoggerNugetPackege.Util": {
             "target": "Package",
-            "version": "[6.0.0, )"
+            "version": "[1.0.0, )"
           }
         },
         "imports": [

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hk9PlW3mRAi9RthJo/WjNC4pZxMbo3mYMQkram+BJgxUwACnJemK4PB+c42JCy/N2Akke6pmB7nsqyJy5x+Lzg==",
+  "dgSpecHash": "YDnZIsKSyTv80v8JlRhCT/6QaKAfvGaOHMXIrKbOW7bI9tB+qDgznzpidBGWBTutMhxfrpUKDuNPYDnSuC6XxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\osama.haider\\.nuget\\packages\\nuget.commandline\\6.0.0\\nuget.commandline.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

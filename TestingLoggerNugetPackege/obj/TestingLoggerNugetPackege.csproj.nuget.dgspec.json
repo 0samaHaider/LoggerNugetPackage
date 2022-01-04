@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj": {}
+    "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj": {
+    "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj",
-        "projectName": "LoggerNugetPackege.Util",
-        "projectPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\LoggerNugetPackege.csproj",
+        "projectUniqueName": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj",
+        "projectName": "TestingLoggerNugetPackege",
+        "projectPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj",
         "packagesPath": "C:\\Users\\osama.haider\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\LoggerNugetPackege\\obj\\",
+        "outputPath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama.haider\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,11 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "NuGet.CommandLine": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "LoggerNugetPackege.Util": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

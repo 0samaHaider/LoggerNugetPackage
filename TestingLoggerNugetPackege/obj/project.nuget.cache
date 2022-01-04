@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpgK3IFeFOwLN6hmAPedyVeikCHK009p9wJa5X8RNADho6bcOPDi3vCf+aYfvexSRk+YzYMcfFghuEyahvQ27w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osama.haider\\source\\repos\\LoggerNugetPackege\\TestingLoggerNugetPackege\\TestingLoggerNugetPackege.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osama.haider\\.nuget\\packages\\loggernugetpackege.util\\1.0.0\\loggernugetpackege.util.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

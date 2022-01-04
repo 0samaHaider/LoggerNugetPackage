@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestingLoggerNugetPackege/1.0.0": {
+        "dependencies": {
+          "LoggerNugetPackege.Util": "1.0.0"
+        },
+        "runtime": {
+          "TestingLoggerNugetPackege.dll": {}
+        }
+      },
+      "LoggerNugetPackege.Util/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/LoggerNugetPackege.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestingLoggerNugetPackege/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggerNugetPackege.Util/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xNJlUAOu7pA2ynMQdThifSPyTleWGhxF+VUHqcarsYP2+su+bynxOBEokXRhrkXuxS4zP+zJxVPzMty8+U5teA==",
+      "path": "loggernugetpackege.util/1.0.0",
+      "hashPath": "loggernugetpackege.util.1.0.0.nupkg.sha512"
+    }
+  }
+}

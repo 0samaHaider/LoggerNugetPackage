@@ -1,0 +1,16 @@
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.exe
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.deps.json
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.runtimeconfig.json
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.runtimeconfig.dev.json
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.dll
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\TestingLoggerNugetPackege.pdb
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\bin\Debug\netcoreapp3.1\LoggerNugetPackege.dll
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.csproj.AssemblyReference.cache
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.AssemblyInfoInputs.cache
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.AssemblyInfo.cs
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.csproj.CoreCompileInputs.cache
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.csproj.CopyComplete
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.dll
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.pdb
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\TestingLoggerNugetPackege\obj\Debug\netcoreapp3.1\TestingLoggerNugetPackege.genruntimeconfig.cache

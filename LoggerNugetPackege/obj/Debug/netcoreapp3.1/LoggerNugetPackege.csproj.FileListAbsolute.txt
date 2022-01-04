@@ -1,0 +1,9 @@
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\bin\Debug\netcoreapp3.1\LoggerNugetPackege.deps.json
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\bin\Debug\netcoreapp3.1\LoggerNugetPackege.dll
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\bin\Debug\netcoreapp3.1\LoggerNugetPackege.pdb
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.AssemblyInfoInputs.cache
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.AssemblyInfo.cs
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.csproj.CoreCompileInputs.cache
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.dll
+C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\obj\Debug\netcoreapp3.1\LoggerNugetPackege.pdb

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/0samaHaider/LoggerNugetPackage.git</RepositoryUrl>
+    <PackageTags>Logger, Log , Text , Osama</PackageTags>
+    <PackageId>LoggerNugetPackege.Util</PackageId>
+    <Authors>OsamaHaider</Authors>
+  </PropertyGroup>
+
+</Project>

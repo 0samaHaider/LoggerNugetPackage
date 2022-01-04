@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LoggerNugetPackege</id>
+    <version>1.0.0</version>
+    <authors>LoggerNugetPackege</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <tags>Logger, Log , Text , Osama</tags>
+    <repository url="https://github.com/0samaHaider/LoggerNugetPackage.git" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\osama.haider\source\repos\LoggerNugetPackege\LoggerNugetPackege\bin\Debug\netcoreapp3.1\LoggerNugetPackege.dll" target="lib\netcoreapp3.1\LoggerNugetPackege.dll" />
+  </files>
+</package>
